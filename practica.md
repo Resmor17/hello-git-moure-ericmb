@@ -3,4 +3,4 @@
 - Ya regresé putines
 - Ya me voy de nuevo putines
 - git reset soft
-- git reset mixed
+- git reset mixed 2
