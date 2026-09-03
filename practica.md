@@ -4,3 +4,4 @@
 - Ya me voy de nuevo putines
 - git reset soft
 - git reset mixed 22
+- git reset hard
