@@ -2,3 +2,4 @@
 - Adios putines
 - Ya regresé putines
 - Ya me voy de nuevo putines
+- git reset
